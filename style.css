@@ -21,6 +21,7 @@ p {
 
 .sidenav-trigger {
   color: #26a69a;
+  show-on-large;
 }
 
 .parallax-container {
